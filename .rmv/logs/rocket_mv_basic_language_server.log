@@ -75,3 +75,4 @@ Account{name=refs, path=C:/Users/randa/Dropbox/AppInfo/GitHub/Solitaire/.git/log
 2023-11-13 21:20:18.208 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030202]convertors for folder(C:/Users/randa/Dropbox/AppInfo/GitHub/Solitaire) load end
 2023-11-13 21:20:22.827 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.BasicDocumentation - [framework:30020201]project documentation update start
 2023-11-13 21:20:22.829 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.BasicDocumentation - [framework:30020202]project documentation update end
+2023-11-13 21:20:25.640 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.catalog.from.scan.CurrentPathScanner - [client:400205]scan file in current open file directory(C:/Users/randa/Dropbox/AppInfo/GitHub/Solitaire/.git)
